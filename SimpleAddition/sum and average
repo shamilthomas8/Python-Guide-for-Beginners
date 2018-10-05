@@ -1,0 +1,9 @@
+a=input("enter 1st number")
+b=input("enter 2nd number")
+c=input("enter 3rd number")
+sum=int(a)+int(b)+int(c)
+print("sum=",sum)
+average=sum/3
+print("average=",average)
+
+
